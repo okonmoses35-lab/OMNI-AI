@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "OmniAI Nigeria",
+  "short_name": "OmniAI NG",
+  "description": "One AI. Ten Solutions. Nigeria's all-in-one assistant for health, exams, career, traffic, scam protection, finance, energy, business, recycling & fact verification.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0b0517",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/omni-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "education", "business", "lifestyle"],
+  "lang": "en-NG"
+}
